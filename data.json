@@ -1,0 +1,104 @@
+[
+  {
+    "id": "001",
+    "chef_name": "Li Mei",
+    "recipe": [
+      "Kung Pao Chicken",
+      "Mapo Tofu",
+      "Sichuan Hot Pot",
+      "Dan Dan Noodles",
+      "Spicy Wontons"
+    ],
+    "chef_photo": "https://upload.wikimedia.org/wikipedia/commons/2/29/Ken_Hom_holding_wok.jpg",
+    "years_of_experience": 15,
+    "number_of_recipes": 50,
+    "likes": 1000,
+    "short_bio": "Li Mei is a renowned Chinese chef who specializes in Sichuan cuisine.",
+    "cooking_method": "Stir-fry, Deep-fry, Boil"
+  },
+  {
+    "id": "002",
+    "chef_name": "Chen Wu",
+    "recipe": [
+      "Peking Duck",
+      "Soy Sauce Chicken",
+      "Steamed Fish with Ginger and Scallions",
+      "Braised Pork Belly",
+      "Beef Chow Fun"
+    ],
+    "chef_photo": "https://cdn.vox-cdn.com/thumbor/ZyQx3vKeSY9rgmyTNumWQlWuNUY=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/23162182/52024076_1351442518352005_1405843512963891200_n.jpg",
+    "years_of_experience": 20,
+    "number_of_recipes": 75,
+    "likes": 1200,
+    "short_bio": "Chen Wu is a master chef of Chinese cuisine with a specialty in Cantonese dishes.",
+    "cooking_method": "Steam, Roast, Braise"
+  },
+  {
+    "id": "003",
+    "chef_name": "Liu Wei",
+    "recipe": [
+      "Hunan-style Braised Pork Belly",
+      "Twice-cooked Pork",
+      "Cumin Lamb",
+      "Hot and Sour Soup",
+      "Hunan-style Smoked Duck"
+    ],
+    "chef_photo": "https://media-cdn.tripadvisor.com/media/photo-s/0f/f3/fd/37/summer-palace.jpg",
+    "years_of_experience": 18,
+    "number_of_recipes": 60,
+    "likes": 900,
+    "short_bio": "Liu Wei is a highly skilled chef who creates flavorful dishes inspired by the Hunan province.",
+    "cooking_method": "Braise, Stir-fry, Steam"
+  },
+  {
+    "id": "004",
+    "chef_name": "Wang Jin",
+    "recipe": [
+      "Shanghai-style Red-braised Pork",
+      "Xiaolongbao",
+      "Sesame Noodles",
+      "Scallion Pancakes",
+      "Braised Chicken with Chestnuts"
+    ],
+    "chef_photo": "https://robert-parker-michelin-hk-prod.s3.amazonaws.com/media/image/2017/06/07/6fb4735d2b43465482ebd811e56eb39e_Michelin-starred+Chef+Leung+Fai+Hung+2+%281%29.jpg",
+    "years_of_experience": 12,
+    "number_of_recipes": 45,
+    "likes": 800,
+    "short_bio": "Wang Jin is a talented chef who specializes in Shanghai cuisine and is known for his attention to detail.",
+    "cooking_method": "Braise, Steam, Fry"
+  },
+  {
+    "id": "005",
+    "chef_name": "Zhang Wei",
+    "recipe": [
+      "Cantonese-style Roast Pork",
+      "Shrimp and Broccoli Stir-fry",
+      "Egg Drop Soup",
+      "Char Siu Bao",
+      "Hong Kong-style Egg Tart"
+    ],
+    "chef_photo": "https://images.indulgexpress.com/uploads/user/imagelibrary/2020/2/14/original/ITC_Maratha_Pan_Asia_1.jpg",
+    "years_of_experience": 16,
+    "number_of_recipes": 55,
+    "likes": 1100,
+    "short_bio": "Zhang Wei is a skilled chef who specializes in Cantonese cuisine and is passionate about using fresh ingredients.",
+    "cooking_method": "Braise, Roast, Fry"
+  },
+  {
+    "id": "006",
+    "chef_name": "Ken Hom",
+    "recipe": [
+      "Cantonese-style Roast Pork",
+      "Shrimp and Broccoli Stir-fry",
+      "Egg Drop Soup",
+      "Char Siu Bao",
+      "Hong Kong-style Egg Tart"
+    ],
+    "chef_photo": "https://media.istockphoto.com/id/1169586694/photo/happy-asian-chef-holding-carton-plates-in-food-truck.jpg?s=612x612&w=0&k=20&c=GQpxNqLQdMhdis5jXHj1scUDTkfpcMLme-C7jlpoEbU=",
+    "years_of_experience": 12,
+    "number_of_recipes": 35,
+    "likes": 1200,
+    "short_bio": "Zhang Wei is a skilled chef who specializes in Cantonese cuisine and is passionate about using fresh ingredients.",
+    "cooking_method": "Braise, Roast, Fry"
+  }
+]
