@@ -5,9 +5,7 @@
     "recipe": [
       "Kung Pao Chicken",
       "Mapo Tofu",
-      "Sichuan Hot Pot",
-      "Dan Dan Noodles",
-      "Spicy Wontons"
+      "Sichuan Hot Pot"
     ],
     "ingredients": [
       "tofu",
@@ -29,9 +27,7 @@
     "recipe": [
       "Peking Duck",
       "Soy Sauce Chicken",
-      "Steamed Fish with Ginger and Scallions",
-      "Braised Pork Belly",
-      "Beef Chow Fun"
+      "Steamed Fish with Ginger and Scallions"
     ],
     "ingredients": [
       "stir-frying beef",
@@ -53,9 +49,7 @@
     "recipe": [
       "Hunan-style Braised Pork Belly",
       "Twice-cooked Pork",
-      "Cumin Lamb",
-      "Hot and Sour Soup",
-      "Hunan-style Smoked Duck"
+      "Cumin Lamb"
     ],
     "ingredients": [
       "stir-frying beef",
@@ -77,9 +71,7 @@
     "recipe": [
       "Shanghai-style Red-braised Pork",
       "Xiaolongbao",
-      "Sesame Noodles",
-      "Scallion Pancakes",
-      "Braised Chicken with Chestnuts"
+      "Sesame Noodles"
     ],
     "ingredients": [
       " all-purpose flour",
@@ -101,9 +93,7 @@
     "recipe": [
       "Cantonese-style Roast Pork",
       "Shrimp and Broccoli Stir-fry",
-      "Egg Drop Soup",
-      "Char Siu Bao",
-      "Hong Kong-style Egg Tart"
+      "Egg Drop Soup"
     ],
     "ingredients": [
       " garlic powder",
@@ -125,9 +115,7 @@
     "recipe": [
       "Cantonese-style Roast Pork",
       "Shrimp and Broccoli Stir-fry",
-      "Egg Drop Soup",
-      "Char Siu Bao",
-      "Hong Kong-style Egg Tart"
+      "Egg Drop Soup"
     ],
     "ingredients": [
       "sift flour",
