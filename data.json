@@ -9,6 +9,13 @@
       "Dan Dan Noodles",
       "Spicy Wontons"
     ],
+    "ingredients": [
+      "tofu",
+      "Mapo Tofu",
+      "ground meat",
+      "chili paste",
+      "soy sauce"
+    ],
     "chef_photo": "https://upload.wikimedia.org/wikipedia/commons/2/29/Ken_Hom_holding_wok.jpg",
     "years_of_experience": 15,
     "number_of_recipes": 50,
@@ -25,6 +32,13 @@
       "Steamed Fish with Ginger and Scallions",
       "Braised Pork Belly",
       "Beef Chow Fun"
+    ],
+    "ingredients": [
+      "stir-frying beef",
+      "wide rice noodles ",
+      "ground meat",
+      "scallions",
+      "bean sprouts"
     ],
     "chef_photo": "https://cdn.vox-cdn.com/thumbor/ZyQx3vKeSY9rgmyTNumWQlWuNUY=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/23162182/52024076_1351442518352005_1405843512963891200_n.jpg",
     "years_of_experience": 20,
@@ -43,6 +57,13 @@
       "Hot and Sour Soup",
       "Hunan-style Smoked Duck"
     ],
+    "ingredients": [
+      "stir-frying beef",
+      "wide rice noodles ",
+      "ground meat",
+      "scallions",
+      "bean sprouts"
+    ],
     "chef_photo": "https://media-cdn.tripadvisor.com/media/photo-s/0f/f3/fd/37/summer-palace.jpg",
     "years_of_experience": 18,
     "number_of_recipes": 60,
@@ -59,6 +80,13 @@
       "Sesame Noodles",
       "Scallion Pancakes",
       "Braised Chicken with Chestnuts"
+    ],
+    "ingredients": [
+      " all-purpose flour",
+      "water, salt ",
+      "vegetable oil",
+      "green onion",
+      "bean sprouts"
     ],
     "chef_photo": "https://robert-parker-michelin-hk-prod.s3.amazonaws.com/media/image/2017/06/07/6fb4735d2b43465482ebd811e56eb39e_Michelin-starred+Chef+Leung+Fai+Hung+2+%281%29.jpg",
     "years_of_experience": 12,
@@ -77,6 +105,13 @@
       "Char Siu Bao",
       "Hong Kong-style Egg Tart"
     ],
+    "ingredients": [
+      " garlic powder",
+      " salt and black pepper ",
+      "Eggs",
+      "green onion",
+      "bean sprouts"
+    ],
     "chef_photo": "https://images.indulgexpress.com/uploads/user/imagelibrary/2020/2/14/original/ITC_Maratha_Pan_Asia_1.jpg",
     "years_of_experience": 16,
     "number_of_recipes": 55,
@@ -93,6 +128,13 @@
       "Egg Drop Soup",
       "Char Siu Bao",
       "Hong Kong-style Egg Tart"
+    ],
+    "ingredients": [
+      "sift flour",
+      "in a large bowl",
+      "Eggs",
+      "sugar",
+      "salt"
     ],
     "chef_photo": "https://media.istockphoto.com/id/1169586694/photo/happy-asian-chef-holding-carton-plates-in-food-truck.jpg?s=612x612&w=0&k=20&c=GQpxNqLQdMhdis5jXHj1scUDTkfpcMLme-C7jlpoEbU=",
     "years_of_experience": 12,
